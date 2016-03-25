@@ -1,0 +1,1 @@
+print(' '.join(word[0].upper()+word[1:].lower() if word else '' for word in raw_input().split(' ')))
