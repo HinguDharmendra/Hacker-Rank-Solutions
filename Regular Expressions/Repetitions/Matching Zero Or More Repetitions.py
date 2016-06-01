@@ -1,0 +1,1 @@
+Regex_Pattern = r'^\d\d\d*[a-z]*[A-Z]*$'	# Do not delete 'r'.
